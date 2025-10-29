@@ -1,2 +1,2 @@
-# CURRICULO
-curriculo
+julia
+
